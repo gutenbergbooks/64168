@@ -15,7 +15,7 @@ Author: Prosper Mérimée
 
 Editor: Louis Fagan
 
-Release Date: December 30, 2020 [eBook #64168]
+Release Date: December 29, 2020 [eBook #64168]
 
 Language: French
 
@@ -8684,7 +8684,7 @@ N'est-ce pas bien ridicule de demander à un habitant de Londres une
 citation classique? Mais il n'y a pas ici de livre grec à vingt lieues à
 la ronde. Il s'agirait d'avoir un vers d'_Électre_, où Égysthe dit qu'il
 a appris qu'Oreste avait perdu la vie en tombant de son char. Il est
-mort dans un _naufrage équestre_, ἱππικοὶς ναυιγίοις. Il s'agirait
+mort dans un _naufrage équestre_, ἱππιχοὶς ναυιγίοις. Il s'agirait
 d'avoir la phrase entière. Je pense que la première personne du British
 Museum que vous verrez vous trouvera le vers. Pardon de vous donner cet
 ennui; rien de pressé d'ailleurs.
@@ -9676,217 +9676,217 @@ TABLE
   II.          --           28   --          4
   III.         --            4 février       6
   IV.          --           13   --          9
-  V.           --           29   --         11
-  VI.        Paris          19 mars         12
-  VII.         --           24   --         15
-  VIII.        --          1er avril        17
-  IX.          --           13   --         19
-  X.           --           20   --         21
-  XI.          --           24   --         24
-  XII.         --          1er mai          25
-  XIII.        --           16   --         27
-  XIV.         --           27   --         29
-  XV.          --            3 juin         31
-  XVI.         --            7   --         33
-  XVII.      Fontainebleau  13   --         36
-  XVIII.       --           22   --         37
-  XIX.       Paris          27   --         39
-  XX.          --            5 août         40
-  XXI.         --           10   --         43
-  XXII.        --           22   --         44
-  XXIII.       --            5 septembre    47
-  XXIV.        --           20   --         50
-  XXV.         --           22   --         51
-  XXVI.        --            2 octobre      53
-  XXVII.     Madrid         11   --         56
-  XXVIII.      --           24   --         59
-  XXIX.        --           12 novembre     62
-  XXX.       Cannes         27   --         65
-  XXXI.        --            5 décembre     68
-  XXXII.       --           24   --         70
+  V.           --           29   --         11 
+  VI.        Paris          19 mars         12 
+  VII.         --           24   --         15 
+  VIII.        --          1er avril        17 
+  IX.          --           13   --         19 
+  X.           --           20   --         21 
+  XI.          --           24   --         24 
+  XII.         --          1er mai          25 
+  XIII.        --           16   --         27 
+  XIV.         --           27   --         29 
+  XV.          --            3 juin         31 
+  XVI.         --            7   --         33 
+  XVII.      Fontainebleau  13   --         36 
+  XVIII.       --           22   --         37 
+  XIX.       Paris          27   --         39 
+  XX.          --            5 août         40 
+  XXI.         --           10   --         43 
+  XXII.        --           22   --         44 
+  XXIII.       --            5 septembre    47 
+  XXIV.        --           20   --         50 
+  XXV.         --           22   --         51 
+  XXVI.        --            2 octobre      53 
+  XXVII.     Madrid         11   --         56 
+  XXVIII.      --           24   --         59 
+  XXIX.        --           12 novembre     62 
+  XXX.       Cannes         27   --         65 
+  XXXI.        --            5 décembre     68 
+  XXXII.       --           24   --         70 
 
 1865
 
-  XXXIII.    Cannes         12 janvier      73
-  XXXIV.       --           27   --         76
-  XXXV.        --           15 février      79
-  XXXVI.     Paris          14 mars         82
-  XXXVII.    Cannes         26   --         85
-  XXXVIII.     --           13 avril        87
-  XXXIX.       --           22   --         91
-  XL.        Paris           4 mai          95
-  XLI.         --           12   --         98
-  XLII.        --           19   --        101
-  XLIII.       --           23   --        102
-  XLIV.        --            2 juin        105
-  XLV.         --            5   --        108
-  XLVI.        --            7   --        109
-  XLVII.       --           14   --        111
-  XLVIII.      --           23   --        111
-  XLIX.        --           26   --        114
-  L.           --            3 juillet     118
-  LI.          --            9   --        120
-  LII.         --           16   --        123
-  LIII.        --            3 septembre   124
-  LIV.         --            6   --        129
-  LV.          --           10   --        132
-  LVI.         --           12   --        134
-  LVII.      Biarritz       21   --        137
-  LVIII.       --            3 octobre     140
-  LIX.       Paris          13   --        141
-  LX.          --           17   --        143
-  LXI.         --           24   --        147
-  LXII.        --            2 novembre    150
-  LXIII.     Compiègne      16   --        152
-  LXIV.      Paris          22   --        155
-  LXV.       Cannes          2 décembre    157
-  LXVI.        --           18   --        159
-  LXVII.       --           27   --        161
+  XXXIII.    Cannes         12 janvier      73 
+  XXXIV.       --           27   --         76 
+  XXXV.        --           15 février      79 
+  XXXVI.     Paris          14 mars         82 
+  XXXVII.    Cannes         26   --         85 
+  XXXVIII.     --           13 avril        87 
+  XXXIX.       --           22   --         91 
+  XL.        Paris           4 mai          95 
+  XLI.         --           12   --         98 
+  XLII.        --           19   --        101  
+  XLIII.       --           23   --        102  
+  XLIV.        --            2 juin        105  
+  XLV.         --            5   --        108  
+  XLVI.        --            7   --        109  
+  XLVII.       --           14   --        111  
+  XLVIII.      --           23   --        111  
+  XLIX.        --           26   --        114  
+  L.           --            3 juillet     118  
+  LI.          --            9   --        120  
+  LII.         --           16   --        123  
+  LIII.        --            3 septembre   124  
+  LIV.         --            6   --        129  
+  LV.          --           10   --        132  
+  LVI.         --           12   --        134  
+  LVII.      Biarritz       21   --        137  
+  LVIII.       --            3 octobre     140  
+  LIX.       Paris          13   --        141  
+  LX.          --           17   --        143  
+  LXI.         --           24   --        147  
+  LXII.        --            2 novembre    150  
+  LXIII.     Compiègne      16   --        152  
+  LXIV.      Paris          22   --        155  
+  LXV.       Cannes          2 décembre    157  
+  LXVI.        --           18   --        159  
+  LXVII.       --           27   --        161  
 
 1866
 
-  LXVIII.    Cannes          7 janvier     164
-  LXIX.        --           24   --        165
-  LXX.         --            2 février     168
-  LXXI.        --           13   --        171
-  LXXII.       --           22   --        174
-  LXXIII.      --            2 mars        176
-  LXXIV.       --           16   --        178
-  LXXV.        --            2 avril       181
-  LXXVI.     Paris          15   --        184
-  LXXVII.      --           26   --        186
-  LXXVIII.     --            4 mai         189
-  LXXIX.       --            9   --        191
-  LXXX.        --           13   --        193
-  LXXXI.       --           23   --        196
-  LXXXII.      --           31   --        199
-  LXXXIII.     --            6 juin        201
-  LXXXIV.      --            8   --        204
-  LXXXV.       --           10   --        205
-  LXXXVI.      --           25   --        207
-  LXXXVII.     --           28   --        209
-  LXXXVIII.    --            2 juillet     211
-  LXXXIX.      --            5   --        214
-  XC.          --            7   --        216
-  XCI.         --           11   --        219
-  XCII.        --           15   --        221
-  XCIII.     Saint-Cloud    12 août        224
-  XCIV.        --           19   --        227
-  XCV.       Paris          28   --        229
-  XCVI.      Biarritz        8 septembre   232
-  XCVII.       --           14   --        234
-  XCVIII.      --           21   --        235
-  XCIX.        --            3 octobre     238
-  C.           --           17   --        241
-  CI.        Paris          25   --        244
-  CII.         --           28   --        245
-  CIII.        --           30   --        247
-  CIV.         --            2 novembre    249
-  CV.          --            7   --        252
-  CVI.       Cannes         18   --        254
-  CVII.        --           29   --        257
-  CVIII.       --            7 décembre    260
-  CIX.         --           21   --        262
-  CX.          --           27   --        264
+  LXVIII.    Cannes          7 janvier     164  
+  LXIX.        --           24   --        165  
+  LXX.         --            2 février     168  
+  LXXI.        --           13   --        171  
+  LXXII.       --           22   --        174  
+  LXXIII.      --            2 mars        176  
+  LXXIV.       --           16   --        178  
+  LXXV.        --            2 avril       181  
+  LXXVI.     Paris          15   --        184  
+  LXXVII.      --           26   --        186  
+  LXXVIII.     --            4 mai         189  
+  LXXIX.       --            9   --        191  
+  LXXX.        --           13   --        193  
+  LXXXI.       --           23   --        196  
+  LXXXII.      --           31   --        199  
+  LXXXIII.     --            6 juin        201  
+  LXXXIV.      --            8   --        204  
+  LXXXV.       --           10   --        205  
+  LXXXVI.      --           25   --        207  
+  LXXXVII.     --           28   --        209  
+  LXXXVIII.    --            2 juillet     211  
+  LXXXIX.      --            5   --        214  
+  XC.          --            7   --        216  
+  XCI.         --           11   --        219  
+  XCII.        --           15   --        221  
+  XCIII.     Saint-Cloud    12 août        224  
+  XCIV.        --           19   --        227  
+  XCV.       Paris          28   --        229  
+  XCVI.      Biarritz        8 septembre   232  
+  XCVII.       --           14   --        234  
+  XCVIII.      --           21   --        235  
+  XCIX.        --            3 octobre     238  
+  C.           --           17   --        241  
+  CI.        Paris          25   --        244  
+  CII.         --           28   --        245  
+  CIII.        --           30   --        247  
+  CIV.         --            2 novembre    249  
+  CV.          --            7   --        252  
+  CVI.       Cannes         18   --        254  
+  CVII.        --           29   --        257  
+  CVIII.       --            7 décembre    260  
+  CIX.         --           21   --        262  
+  CX.          --           27   --        264  
 
 1867
 
-  CXI.       Cannes          7 janvier     267
-  CXII.        --           20   --        269
-  CXIII.       --           21   --        273
-  CXIV.        --           10 mars        274
-  CXV.         --           28   --        277
-  CXVI.      Paris           4 avril       279
-  CXVII.       --           16   --        281
-  CXVIII.      --           27   --        284
-  CXIX.        --            6 mai         286
-  CXX.         --           17   --        289
-  CXXI.        --           24   --        291
-  CXXII.       --           26 juin        292
-  CXXIII.      --           30   --        293
-  CXXIV.       --            5 juillet     295
-  CXXV.        --           11   --        296
-  CXXVI.       --           19   --        298
-  CXXVII.      --           26   --        299
-  CXXVIII.     --            7 août        301
-  CXXIX.       --           21   --        303
-  CXXX.        --            2 septembre   305
-  CXXXI.       --           13   --        308
-  CXXXII.      --           27   --        311
-  CXXXIII.     --            9 octobre     313
-  CXXXIV.      --           15   --        315
-  CXXXV.       --           25   --        317
-  CXXXVI.    Cannes         28 novembre    319
-  CXXXVII.     --           16 décembre    321
+  CXI.       Cannes          7 janvier     267  
+  CXII.        --           20   --        269  
+  CXIII.       --           21   --        273  
+  CXIV.        --           10 mars        274  
+  CXV.         --           28   --        277  
+  CXVI.      Paris           4 avril       279  
+  CXVII.       --           16   --        281  
+  CXVIII.      --           27   --        284  
+  CXIX.        --            6 mai         286  
+  CXX.         --           17   --        289  
+  CXXI.        --           24   --        291  
+  CXXII.       --           26 juin        292  
+  CXXIII.      --           30   --        293  
+  CXXIV.       --            5 juillet     295  
+  CXXV.        --           11   --        296  
+  CXXVI.       --           19   --        298  
+  CXXVII.      --           26   --        299  
+  CXXVIII.     --            7 août        301  
+  CXXIX.       --           21   --        303  
+  CXXX.        --            2 septembre   305  
+  CXXXI.       --           13   --        308  
+  CXXXII.      --           27   --        311  
+  CXXXIII.     --            9 octobre     313  
+  CXXXIV.      --           15   --        315  
+  CXXXV.       --           25   --        317  
+  CXXXVI.    Cannes         28 novembre    319  
+  CXXXVII.     --           16 décembre    321  
 
 1868
 
-  CXXXVIII.  Cannes          8 mars        324
-  CXXXIX.      --           19   --        325
-  CXL.         --            4 avril       327
-  CXLI.      Montpellier    25   --        330
-  CXLII.     Paris          28 mai         332
-  CXLIII.      --           11 juin        336
-  CXLIV.       --           16   --        337
-  CXLV.        --           18 juillet     340
-  CXLVI.     Fontainebleau  24   --        342
-  CXLVII.      --            2 août        343
-  CXLVIII.     --           11   --        345
-  CXLIX.     Paris          20   --        348
-  CL.          --          1er septembre   349
+  CXXXVIII.  Cannes          8 mars        324  
+  CXXXIX.      --           19   --        325  
+  CXL.         --            4 avril       327  
+  CXLI.      Montpellier    25   --        330  
+  CXLII.     Paris          28 mai         332  
+  CXLIII.      --           11 juin        336  
+  CXLIV.       --           16   --        337  
+  CXLV.        --           18 juillet     340  
+  CXLVI.     Fontainebleau  24   --        342  
+  CXLVII.      --            2 août        343  
+  CXLVIII.     --           11   --        345  
+  CXLIX.     Paris          20   --        348  
+  CL.          --          1er septembre   349  
 
 1869
 
-  CLI.       Cannes         22 janvier     352
-  CLII.        --           15 mars        353
-  CLIII.       --           23   --        354
-  CLIV.        --            6 avril       355
-  CLV.         --           22   --        357
-  CLVI.      Paris           7 mai         359
-  CLVII.       --           22   --        361
-  CLVIII.      --            9 juin        363
-  CLIX.        --           20   --        365
-  CLX.       Saint-Cloud    11 juillet     367
-  CLXI.        --           26   --        370
-  CLXII.     Paris          16 août        373
-  CLXIII.      --           26   --        376
-  CLXIV.       --            7 septembre   378
-  CLXV.        --           15   --        380
-  CLXVI.       --            2 octobre     383
-  CLXVII.      --            9   --        385
-  CLXVIII.   Cannes         28   --        387
-  CLXIX.       --            7 novembre    390
-  CLXX.        --            4 décembre    391
-  CLXXI.       --           26   --        393
+  CLI.       Cannes         22 janvier     352  
+  CLII.        --           15 mars        353  
+  CLIII.       --           23   --        354  
+  CLIV.        --            6 avril       355  
+  CLV.         --           22   --        357  
+  CLVI.      Paris           7 mai         359  
+  CLVII.       --           22   --        361  
+  CLVIII.      --            9 juin        363  
+  CLIX.        --           20   --        365  
+  CLX.       Saint-Cloud    11 juillet     367  
+  CLXI.        --           26   --        370  
+  CLXII.     Paris          16 août        373  
+  CLXIII.      --           26   --        376  
+  CLXIV.       --            7 septembre   378  
+  CLXV.        --           15   --        380  
+  CLXVI.       --            2 octobre     383  
+  CLXVII.      --            9   --        385  
+  CLXVIII.   Cannes         28   --        387  
+  CLXIX.       --            7 novembre    390  
+  CLXX.        --            4 décembre    391  
+  CLXXI.       --           26   --        393  
 
 1870
 
-  CLXXII.    Cannes          6 janvier     396
-  CLXXIII.     --           16   --        398
-  CLXXIV.      --            3 février     401
-  CLXXV.       --           27   --        404
-  CLXXVI.      --            5 mars        406
-  CLXXVII.     --           20   --        408
-  CLXXVIII.    --           30   --        411
-  CLXXIX.      --           20 avril       413
-  CLXXX.       --            4 mai         415
-  CLXXXI.      --           21   --        416
-  CLXXXII.     --           29   --        418
-  CLXXXIII.  Paris           7 juin        420
-  CLXXXIV.     --            7 juillet     423
-  CLXXXV.      --           17   --        424
-  CLXXXVI.     --           25   --        425
-  CLXXXVII.    --           27   --        428
-  CLXXXVIII.   --           11 août        429
-  CLXXXIX.     --           16   --        431
-  CXC.         --           21   --        433
-  CXCI.        --           22   --        434
-  CXCII.       --           24   --        435
-  CXCIII.      --           25   --        436
-  CXCIV.       --           26   --        437
-  CXCV.        --           28   --        438
-  CXCVI.       --            4 septembre   441
-  CXCVII.    Cannes         13   --        442
+  CLXXII.    Cannes          6 janvier     396  
+  CLXXIII.     --           16   --        398  
+  CLXXIV.      --            3 février     401  
+  CLXXV.       --           27   --        404  
+  CLXXVI.      --            5 mars        406  
+  CLXXVII.     --           20   --        408  
+  CLXXVIII.    --           30   --        411  
+  CLXXIX.      --           20 avril       413  
+  CLXXX.       --            4 mai         415  
+  CLXXXI.      --           21   --        416  
+  CLXXXII.     --           29   --        418  
+  CLXXXIII.  Paris           7 juin        420  
+  CLXXXIV.     --            7 juillet     423  
+  CLXXXV.      --           17   --        424  
+  CLXXXVI.     --           25   --        425  
+  CLXXXVII.    --           27   --        428  
+  CLXXXVIII.   --           11 août        429  
+  CLXXXIX.     --           16   --        431  
+  CXC.         --           21   --        433  
+  CXCI.        --           22   --        434  
+  CXCII.       --           24   --        435  
+  CXCIII.      --           25   --        436  
+  CXCIV.       --           26   --        437  
+  CXCV.        --           28   --        438  
+  CXCVI.       --            4 septembre   441  
+  CXCVII.    Cannes         13   --        442  
   Appendice                                444
 
 
